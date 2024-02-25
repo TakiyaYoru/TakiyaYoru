@@ -1,4 +1,4 @@
-### Hi, I'm TakiyaYoru  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [TakiyaYoru][website] = Software Engineer + Designer 🌻  
+### Hi, I'm TakiyaYoru  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [TakiyaYoru] = Software Engineer + Designer 🌻  
 
 
 - 🔭 Passion in something ... (secret😊)
