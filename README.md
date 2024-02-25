@@ -9,4 +9,6 @@
 
 - ### 📫 Contact me via:
 - EMAIL: duykhafoot@gmail.com
-- FACEBOOK: [Duy Kha][https://www.facebook.com/takiyayoru941/]
+- FACEBOOK: [Duy Kha][Duy Kha]
+
+  [Duy Kha]: https://www.facebook.com/takiyayoru941
