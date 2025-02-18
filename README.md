@@ -4,7 +4,7 @@
 - Currently, I am a second-year student majoring in information technology at University of Management and Technology Ho Chi Minh City (UMT). My dream is to become a software engineer and designer.
 
 - 🔭 Passion in something
-- 💪 2024 Goals: Make your first game project
+- 💪 2025 Goals: Make your first game project
 - ⭐: Photographer, Deginer, Playing Game, Coding, playing piano...
 
 - ### 📫 Contact me via:
